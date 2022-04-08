@@ -10,10 +10,10 @@
 </a> -->
 
 <a href="https://github.com/NikitaRubocki/NikitaRubocki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaRubocki&count_private=true&langs_count=3&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaRubocki&count_private=true&langs_count=3&theme=rose_pine" />
 </a>
 <a href="https://github.com/NikitaRubocki/NikitaRubocki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRubocki&show_icons=true&line_height=27&count_private=true&theme=blueberry" alt="Nikita's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRubocki&show_icons=true&line_height=27&count_private=true&theme=rose_pine" alt="Nikita's GitHub Stats" />
 </a>
 
 <!--
