@@ -3,10 +3,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/NikitaRubocki/NikitaRubocki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaRubocki&count_private=true&langs_count=8&theme=rose_pine&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaRubocki&count_private=true&langs_count=8&card_width=320&theme=rose_pine&layout=compact" />
 </a>
 <a href="https://github.com/NikitaRubocki/NikitaRubocki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRubocki&show_icons=true&card_width=450&count_private=true&theme=rose_pine" alt="Nikita's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRubocki&show_icons=true&count_private=true&theme=rose_pine" alt="Nikita's GitHub Stats" />
 </a>
 
 <!--
