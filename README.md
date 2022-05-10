@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Thanks for stopping by :bowtie:
 
 ## &#x1f4c8; GitHub Stats
 
