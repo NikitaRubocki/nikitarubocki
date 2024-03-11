@@ -1,5 +1,11 @@
 ### Hello! Thanks for stopping by :bowtie:
 
+## Current Position: Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)
+
+
+
+
+<!--
 ## &#x1f4c8; GitHub Stats
 
 
@@ -7,7 +13,6 @@
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NikitaRubocki&show_icons=true&count_private=true&theme=rose_pine" alt="Nikita's GitHub Stats" />
 
-<!--
 **NikitaRubocki/nikitarubocki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
