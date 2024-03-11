@@ -3,7 +3,7 @@
 #### :computer: Current Position
 I'm currently working as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check us out for your next tech-based startup initiative.
 
-#### :space_invader: Current Languages
+#### :fountain_pen: Current Languages
 NestJS/Typescript | Flutter | Python
 
 #### :telescope: Projects
