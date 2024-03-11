@@ -9,12 +9,12 @@ NestJS/Typescript | Flutter | Python
 #### :telescope: Projects
 I'm leading a business analytics project called [AppFit](https://www.appfit.io/) to help early-stage founders wrangle the world of analytics. Would you drive a car without a dashboard? Then you shouldn't run a business without tracking your metrics! AppFit helps distill the complexity into an easy-to-use interface. Don't spend time crafting charts, spend it efficiently understanding key areas of growth. 
 <br><br>
-On the side, I've been digging deep into artificial intelligence and the crazy advances the industry recently made with LLMs. No personal projects of interest yet, but it's super interesting!
+On the side, I've been digging deep into artificial intelligence and the crazy advances the industry recently made with LLMs. No personal projects of interest yet, but it's super fascinating!
 
 #### :potted_plant: Interests
 Artificial Intelligence | Machine Learning | Software Design | Value-Based Development | Freeskiing | Outdoor Recreation
 
-#### Reach me elsewhere!
+##### Anything pique your curiousity? Reach me elsewhere!
 :email: nikita@uptechstudio.com
 <br>
 :link: [LinkedIn](https://www.linkedin.com/in/nikita-rubocki/)
