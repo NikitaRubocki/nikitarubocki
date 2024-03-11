@@ -1,6 +1,17 @@
 ### Hello! Thanks for stopping by :bowtie:
 
-## Current Position: Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)
+#### :computer: Current Position
+I'm currently working as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check us out for your next tech-based startup initiative.
+
+#### :telescope: Projects
+I'm leading a business analytics project [AppFit]
+
+#### :potted_plant: Interests
+Artificial Intelligence | Machine Learning | 
+
+#### Reach me elsewhere!
+:email: nikita@uptechstudio.com
+:link: [LinkedIn](https://www.linkedin.com/in/nikita-rubocki/)
 
 
 
