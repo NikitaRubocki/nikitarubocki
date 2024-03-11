@@ -14,7 +14,7 @@ On the side, I've been digging deep into artificial intelligence and the crazy a
 #### :potted_plant: Interests
 Artificial Intelligence | Machine Learning | Software Design | Value-Based Development | Freeskiing | Outdoor Recreation
 
-##### Anything pique your curiousity? Reach me elsewhere!
+##### Anything pique your curiousity? Let's connect!
 :email: nikita@uptechstudio.com
 <br>
 :link: [LinkedIn](https://www.linkedin.com/in/nikita-rubocki/)
