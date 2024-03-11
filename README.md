@@ -4,7 +4,7 @@
 I'm currently working as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check us out for your next tech-based startup initiative.
 
 #### :telescope: Projects
-I'm leading a business analytics project [AppFit](https://www.appfit.io/) to help early-stage founders wrangle the world of analytics. Would you drive a car without a dashboard? Then you shouldn't run a business without tracking your metrics! AppFit helps distill the complexity into an easy-to-use interface. Don't spend time crafting charts, spend it quickly and efficiently understanding key areas of growth. 
+I'm leading a business analytics project called [AppFit](https://www.appfit.io/) to help early-stage founders wrangle the world of analytics. Would you drive a car without a dashboard? Then you shouldn't run a business without tracking your metrics! AppFit helps distill the complexity into an easy-to-use interface. Don't spend time crafting charts, spend it quickly and efficiently understanding key areas of growth. 
 <br>
 On the side, I've been digging deep into artificial intelligence and the crazy advances the industry recently made with LLMs.
 
