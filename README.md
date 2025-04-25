@@ -1,15 +1,14 @@
 ### Hello! Thanks for stopping by :bowtie:
 
 #### :computer: Current Position
-I'm currently working as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check us out for your next tech-based startup initiative.
+I am current a Data Scientist/AI Wrangler at [R1 RCM](https://www.r1rcm.com/)! 
+Previously: I worked as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check them out for your next tech-based startup initiative.
 
 #### :fountain_pen: Current Languages
-NestJS/Typescript | Flutter | Python
+Python | NestJS/Typescript | Flutter
 
 #### :telescope: Projects
-I'm leading a business analytics project called [AppFit](https://www.appfit.io/) to help early-stage founders wrangle the world of analytics. Would you drive a car without a dashboard? Then you shouldn't run a business without tracking your metrics! AppFit helps distill the complexity into an easy-to-use interface. Don't spend time crafting charts, spend it efficiently understanding key areas of growth. 
-<br><br>
-On the side, I've been digging deep into artificial intelligence and the crazy advances the industry recently made with LLMs. No personal projects of interest yet, but it's super fascinating!
+I'm currently digging into all things AI, both for work and personally! There's too much out there to keep track of here, but I am researching/developing medical coding interfaces, agentic AI, and utilizing AI for personal tasks.
 
 #### :potted_plant: Interests
 Artificial Intelligence | Machine Learning | Software Design | Value-Based Development | Freeskiing | Outdoor Recreation
