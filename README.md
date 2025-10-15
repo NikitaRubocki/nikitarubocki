@@ -1,7 +1,7 @@
 ### Hello! Thanks for stopping by :bowtie:
 
 #### :computer: Current Position
-I am current a Data Scientist/AI Wrangler at [R1 RCM](https://www.r1rcm.com/)! 
+I am currently a Data Scientist/AI Wrangler at [R1 RCM](https://www.r1rcm.com/)! 
 <br>
 Previously: I worked as a Software Developer at [Uptech Studio](https://www.uptechstudio.com/about-us)! Check them out for your next tech-based startup initiative.
 
