@@ -15,7 +15,7 @@ I'm currently digging into all things AI, both for work and personally! There's 
 Artificial Intelligence | Machine Learning | Software Design | Value-Based Development | Freeskiing | Outdoor Recreation
 
 ##### Anything pique your curiousity? Let's connect!
-:email: nikita@uptechstudio.com
+:email: nikita.rubocki@gmail.com
 <br>
 :link: [LinkedIn](https://www.linkedin.com/in/nikita-rubocki/)
 
